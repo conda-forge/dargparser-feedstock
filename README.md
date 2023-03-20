@@ -1,11 +1,11 @@
-About dargparser
-================
+About dargparser-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dargparser-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/konstantinjdobler/dargparser
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dargparser-feedstock/blob/main/LICENSE.txt)
 
 Summary: A lean and hackable typed argument parser for Python.
 
