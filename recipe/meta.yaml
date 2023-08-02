@@ -1,5 +1,5 @@
 {% set name = "dargparser" %}
-{% set version = "1.1.1" %}
+{% set version = "1.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/dargparser-{{ version }}.tar.gz
-  sha256: 9ff11b15df2c3c5668beaec08e744694d092889ee08953837637e52bf9995601
+  sha256: e76c59f032d4f9acd31538132d165250c10c603a677d73a5c6f68a10cb5b3ec6
 
 build:
   noarch: python
